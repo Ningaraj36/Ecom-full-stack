@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.repo.MRURepo"/>
+    <fullyQualifiedTypeName name="com.example.service.MRUService"/>
+    <fullyQualifiedTypeName name="com.example.Mobiles"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.mru.repo.LaptopsRepo"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="com.mru.service.MRUService"/>
+    <fullyQualifiedTypeName name="com.mru.entity.Laptops"/>
+    <fullyQualifiedTypeName name="com.mru.repo.MobilesRepo"/>
+    <fullyQualifiedTypeName name="com.mru.entity.Mobiles"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.mru.repo.WatchesRepo"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.mru.entity.Watches"/>
+</qualifiedTypeNameHistroy>
